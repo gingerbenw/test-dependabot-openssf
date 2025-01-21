@@ -1,4 +1,0 @@
-[[PackageOverrides]]
-name = "async"
-ecosystem = "npm"
-ignore = true
