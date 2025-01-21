@@ -1,3 +1,4 @@
-[[IgnoredVulns]]
-id = "GHSA-fwr7-v2mv-hh25"
-reason = "Vulnerability was detected in an example application."
+# Does not work
+[[PackageOverrides]]
+ignore = true
+reason = "Example application should not be checked for vulnerabilities"

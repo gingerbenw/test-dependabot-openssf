@@ -1,4 +1,4 @@
 # Does not work
 [[PackageOverrides]]
-name = "ws"
 ignore = true
+reason = "Example application should not be checked for vulnerabilities"

@@ -10,6 +10,4 @@ updates:
     schedule:
       interval: "monthly"
     ignore:
-      - dependency-name: "body-parser"
-      - dependency-name: "find-my-way"
       - dependency-name: "*"
