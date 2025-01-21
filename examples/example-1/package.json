@@ -10,9 +10,7 @@
     "description": "",
     "dependencies": {
       "async": "3.2.1",
-      "body-parser": "1.20.0",
-      "find-my-way": "9.0.0",
-      "path-to-regexp": "0.1.0"
+      "ws": "5.2.3"
     }
   }
   
