@@ -1,2 +1,6 @@
+[[IgnoredVulns]]
+id = "GHSA-fwr7-v2mv-hh25"
+reason = "Vulnerability was detected in an example application."
+
 [[PackageOverrides]]
-vulnerability.ignore = true
+ignore = true
