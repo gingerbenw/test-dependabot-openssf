@@ -1,4 +1,3 @@
-# Not being picked up for subdirectories
 [[IgnoredVulns]]
-id = "GHSA-3h5v-q93c-6h6q"
+id = "GHSA-fwr7-v2mv-hh25"
 reason = "Vulnerability was detected in an example application."
