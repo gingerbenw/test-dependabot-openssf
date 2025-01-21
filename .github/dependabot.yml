@@ -1,0 +1,15 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  - package-ecosystem: "npm"
+    directory: "/examples"
+    schedule:
+      interval: "monthly"
+    ignore:
+      - dependency-name: "body-parser"
+      - dependency-name: "find-my-way"
+      - dependency-name: "*"
