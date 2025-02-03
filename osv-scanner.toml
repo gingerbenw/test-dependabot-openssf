@@ -1,0 +1,10 @@
+# Works both locally and in the GitHub Action
+[[IgnoredVulns]]
+id = "GHSA-hrpp-h998-j3pp"
+reason = "Ignore qs vulnerability"
+
+# Works locally only
+[[PackageOverrides]]
+name = "async"
+ignore = true
+reason = "Ignore vulnerable async package - GHSA-fwr7-v2mv-hh25"

@@ -19,5 +19,9 @@
     "url": "https://github.com/gingerbenw/test-dependabot-openssf/issues"
   },
   "homepage": "https://github.com/gingerbenw/test-dependabot-openssf#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "async": "3.2.1",
+    "qs": "^6.7.0"
+  }
 }
